@@ -170,13 +170,12 @@ footer {
         display: none;
     }
 
-    .user {
-        padding: 0;
-    }
-
     .user .download {
         padding-bottom: 15px;
     }
 
+    .user .profile {
+        padding-bottom: 5px;
+    }
 
 }
